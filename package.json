@@ -1,0 +1,21 @@
+{
+	"name": "ejs-snippets",
+	"displayName": "EJS Snippets",
+	"description": "Set of EJS Snippets to make life easier.",
+	"version": "0.2.0",
+	"publisher": "Theran",
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "ejs",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	}
+}
