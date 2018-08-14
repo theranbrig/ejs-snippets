@@ -6,21 +6,21 @@ This is a basic snippet library for EJS files. EJS can be very useful when used 
 
 **Snippets are found below.**
 
-- `ejs` => `<% %>`
-- `ejsout` => `<%= %>`
-- `ejsesc` => `<%- %>`
-- `ejscom` => `<%# %>`
-- `ejslit` => `<%% %>`
-- `ejsinc` => `ejs include statement`
-- `ejsfor` => `ejs for loop`
-- `ejsfe` => `ejs forEach loop`
-- `ejsif` => `ejs if statement`
-- `ejselif` => `ejs else if statement` - Middle section only. Assumes you have already written the first if statement.
-- `ejselse` => `ejs else statement` - Middle section only. Assumes you have already written the first if statement.
+- `ejs` = `<% %>`
+- `ejsout` = `<%= %>`
+- `ejsesc` = `<%- %>`
+- `ejscom` = `<%# %>`
+- `ejslit` = `<%% %>`
+- `ejsinc` = `ejs include statement`
+- `ejsfor` = `ejs for loop`
+- `ejsfe` = `ejs forEach loop`
+- `ejsif` = `ejs if statement`
+- `ejselif` = `ejs else if statement` - Middle section only. Assumes you have already written the first if statement.
+- `ejselse` = `ejs else statement` - Middle section only. Assumes you have already written the first if statement.
 
 ## Release Notes
 
-## [0.4.0]
+## [0.5.0]
 
 - Initial release
 - Added basic EJS snippets.
