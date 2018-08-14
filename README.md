@@ -20,7 +20,7 @@ This is a basic snippet library for EJS files. EJS can be very useful when used 
 
 ## Release Notes
 
-## [0.3.0]
+## [0.4.0]
 
 - Initial release
 - Added basic EJS snippets.
