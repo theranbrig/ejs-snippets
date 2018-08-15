@@ -39,7 +39,7 @@
 		"description": "EJS For Loop"
 	},
 	"EJS ForEach": {
-		"prefix": "ejsfe",
+		"prefix": "ejseach",
 		"body": ["<% ${1:array}.forEach(${2:element} => { %>", " $3", "<% }) %>"],
 		"description": "EJS ForEach Loop"
 	},
